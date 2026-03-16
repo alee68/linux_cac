@@ -125,6 +125,16 @@ sudo bash -c "$(fetch -o https://raw.githubusercontent.com/jdjaxon/linux_cac/mai
 
 - Firefox will likely start up a bit slower after running this installation.
 
+## AL notes
+### Microsoft Edge
+- In Edge, visit `edge://certificate-manager/localcerts`
+- Linux > should have 46 imported certs already
+- Custom > Installed by you > 5 certs
+  - `DOD DERILITY CA-1`
+  - `DoD Root CA 3`
+  - `DoD Root CA 4`
+  - `DoD Root CA 5`
+  - `DoD Root CA 6`
 
 ## Troubleshooting
 ### Microsoft Teams
